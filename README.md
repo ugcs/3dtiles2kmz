@@ -31,3 +31,6 @@ Notes:
 ## Known Issues/Future plans
 - There is now mesh optimization. Script takes the most detailed level of 3D tile octree, so resulting KMZ file can be huge
 - No textures support, so far
+
+## License
+Apache License 2.0. See `LICENSE`.
